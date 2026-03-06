@@ -1,6 +1,7 @@
 # Hi, I'm Shieu
 
 I'm a former quantum researcher, now switching to quant research. IDK which one is easier, we'll see :)
+
 Currently work in **Lainalytix LLC**, a startup focused on:
 
 - Quantitative finance research
