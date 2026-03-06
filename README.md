@@ -1,6 +1,7 @@
 # Hi, I'm Shieu
 
-I work in **Lainalytix LLC**, a startup focused on:
+Im a former quantum researcher, now switching to quant research.
+Currently work in **Lainalytix LLC**, a startup focused on:
 
 - Quantitative finance research
 - Crypto option analytics
