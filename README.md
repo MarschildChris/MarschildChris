@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Shieu
 
-<!--
-**MarschildChris/MarschildChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in **Lainalytix LLC**, a startup focused on:
 
-Here are some ideas to get you started:
+- Quantitative finance research
+- crypto derivative analytics
+- Large language models (LLM)
+- Automated trading systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python · TypeScript · Solidity · Rust  
+PyTorch · Transformers · Web3
+
+## Current Focus
+Building research Automated trading systems in polymarket at **Lainalytix** exploring the intersection of **AI and quantitative finance**.
