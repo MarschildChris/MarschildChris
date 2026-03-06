@@ -3,7 +3,7 @@
 I work in **Lainalytix LLC**, a startup focused on:
 
 - Quantitative finance research
-- crypto derivative analytics
+- Crypto derivative analytics
 - Large language models (LLM)
 - Automated trading systems
 
